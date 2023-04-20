@@ -1,0 +1,9 @@
+{
+	"name": "practicepipeline1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "793fb72a-b843-4ebd-ada6-b216cef7a572",
+		"tenantId": "eda4740b-fd92-480a-9ecc-411211afeb3e"
+	}
+}
