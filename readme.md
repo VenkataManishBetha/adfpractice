@@ -10,7 +10,7 @@ Task_1: Move files from Blob to Adl
   * Publish the pipeline for saving
   * Debug/Triger Now option to run the pipeline
   * Use Monitor tab to view the status of the pipeline
-	* Check Adl to view the migrated files
+  * Check Adl to view the migrated files
   
  Task_2: Delete files from Adl
   * Create ADF pipeline
